@@ -1,0 +1,14 @@
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\DataAccess\bin\Debug\net8.0\BE_ConsilierInteligent.DataAccess.deps.json
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\DataAccess\bin\Debug\net8.0\BE_ConsilierInteligent.DataAccess.runtimeconfig.json
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\DataAccess\bin\Debug\net8.0\BE_ConsilierInteligent.DataAccess.dll
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\DataAccess\bin\Debug\net8.0\BE_ConsilierInteligent.DataAccess.pdb
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\DataAccess\obj\Debug\net8.0\BE_ConsilierInteligent.DataAccess.csproj.AssemblyReference.cache
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\DataAccess\obj\Debug\net8.0\BE_ConsilierInteligent.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\DataAccess\obj\Debug\net8.0\BE_ConsilierInteligent.DataAccess.AssemblyInfoInputs.cache
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\DataAccess\obj\Debug\net8.0\BE_ConsilierInteligent.DataAccess.AssemblyInfo.cs
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\DataAccess\obj\Debug\net8.0\BE_ConsilierInteligent.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\DataAccess\obj\Debug\net8.0\BE_ConsilierInteligent.DataAccess.dll
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\DataAccess\obj\Debug\net8.0\refint\BE_ConsilierInteligent.DataAccess.dll
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\DataAccess\obj\Debug\net8.0\BE_ConsilierInteligent.DataAccess.pdb
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\DataAccess\obj\Debug\net8.0\BE_ConsilierInteligent.DataAccess.genruntimeconfig.cache
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\DataAccess\obj\Debug\net8.0\ref\BE_ConsilierInteligent.DataAccess.dll

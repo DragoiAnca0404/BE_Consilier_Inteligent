@@ -1,0 +1,9 @@
+@BE_ConsilierInteligent_HostAddress = http://localhost:5097
+
+GET {{BE_ConsilierInteligent_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+
+

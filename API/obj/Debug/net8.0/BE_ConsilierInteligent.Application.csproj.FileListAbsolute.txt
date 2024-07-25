@@ -1,0 +1,17 @@
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\API\bin\Debug\net8.0\BE_ConsilierInteligent.Application.deps.json
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\API\bin\Debug\net8.0\BE_ConsilierInteligent.Application.runtimeconfig.json
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\API\bin\Debug\net8.0\BE_ConsilierInteligent.Application.dll
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\API\bin\Debug\net8.0\BE_ConsilierInteligent.Application.pdb
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\API\bin\Debug\net8.0\BE_ConsilierInteligent.DataAccess.dll
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\API\bin\Debug\net8.0\BE_ConsilierInteligent.DataAccess.pdb
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\API\obj\Debug\net8.0\BE_ConsilierInteligent.Application.csproj.AssemblyReference.cache
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\API\obj\Debug\net8.0\BE_ConsilierInteligent.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\API\obj\Debug\net8.0\BE_ConsilierInteligent.Application.AssemblyInfoInputs.cache
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\API\obj\Debug\net8.0\BE_ConsilierInteligent.Application.AssemblyInfo.cs
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\API\obj\Debug\net8.0\BE_ConsilierInteligent.Application.csproj.CoreCompileInputs.cache
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\API\obj\Debug\net8.0\BE_ConsilierInteligent.Application.csproj.CopyComplete
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\API\obj\Debug\net8.0\BE_ConsilierInteligent.Application.dll
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\API\obj\Debug\net8.0\refint\BE_ConsilierInteligent.Application.dll
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\API\obj\Debug\net8.0\BE_ConsilierInteligent.Application.pdb
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\API\obj\Debug\net8.0\BE_ConsilierInteligent.Application.genruntimeconfig.cache
+C:\Users\anca_\Desktop\disertatie\aplicatie\BE_ConsilierInteligent\API\obj\Debug\net8.0\ref\BE_ConsilierInteligent.Application.dll
